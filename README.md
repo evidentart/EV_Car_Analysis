@@ -11,3 +11,10 @@ Exploring global trends, availability, and efficiency of EV charging stations to
 ## Dataset Source
 https://www.kaggle.com/datasets/vivekattri/global-ev-charging-stations-dataset
 
+## Machine Learning
+- **Train predictive models** to forecast charging station usage, including demand and energy consumption.
+- **Feature Engineering** to enhance model performance, creating new features like charging utilization rates or geographical zones.
+- **Train XGBoost model** with hyperparameter tuning using GridSearchCV to optimize model performance.
+- **Use Random Forest Regressor** as an additional model to predict station usage and energy consumption.
+- **Evaluate models** using performance metrics like Mean Absolute Error (MAE), R² score, and cross-validation to ensure robustness.
+- **Model Results:** The best model demonstrated effective prediction accuracy, but further refinement needed to enhance results.
